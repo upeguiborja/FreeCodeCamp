@@ -1,0 +1,16 @@
+{
+  "name": "fcc_01",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Tribute Page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Upegui Borja (@upeguiborja)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-replace": "^1.0.0"
+  }
+}
